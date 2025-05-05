@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-🎓 I'm a Web Developer 
+🎓 I want to become a Web Developer
 💻 Passionate about Web Development and UI/UX  
 📫 Email me at: duonghoangsamet@gmail.com
 
