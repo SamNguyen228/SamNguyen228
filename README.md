@@ -44,8 +44,10 @@
 ---
 
 ## 🏆 GitHub Trophies
-
+<img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=dark&column=4&margin-w=15&margin-h=15"/>
 <img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=flat&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=radical&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=juicy&column=4&margin-w=15&margin-h=15"/>
 
 ---
 
