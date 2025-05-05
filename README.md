@@ -1,6 +1,4 @@
-# 👋 Hello! I'm Nguyen Duong Sam | 💻 IT Student 🚀
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+an+IT+student+from+Vietnam.;I+love+code+%26+coffee+%E2%98%95)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+Vietnam;🚀+Welcome+to+my+GitHub+profile!)
 
 
 ## 💼 About Me
