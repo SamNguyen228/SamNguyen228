@@ -1,11 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+CMCUNI;🚀+Welcome+to+my+GitHub+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+CMCUNI;🚀+Welcome+to+my+GitHub+profile!&effect=shadow)
 
 
 ## 💼 About Me
 
 🎓 I'm a Web Developer 
 💻 Passionate about Web Development and UI/UX  
-🌱 Currently learning: ReactJS, SQL  
 📫 Email me at: duonghoangsamet@gmail.com
 
 ---
@@ -42,6 +41,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=flat&column=4&margin-w=15&margin-h=15"/>
 
 ---
 
