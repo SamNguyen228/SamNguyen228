@@ -1,4 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+CMCUNI;🚀+Welcome+to+my+GitHub+profile!&effect=neon)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+CMCUNI;🚀+Welcome+to+my+GitHub+profile!&effect=roll)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Nguyen+Duong+Sam;💻+IT+Student+from+CMCUNI;🚀+Welcome+to+my+GitHub+profile!&effect=shake)
 
 
 ## 💼 About Me
