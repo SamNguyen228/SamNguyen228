@@ -1,6 +1,7 @@
-# 👋 Hello! I'm Nguyen Duong Sam | IT Student
+# 👋 Hello! I'm Nguyen Duong Sam | 💻 IT Student 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=SamNguyen228&color=blue)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+an+IT+student+from+Vietnam.;I+love+code+%26+coffee+%E2%98%95)
+
 
 ## 💼 About Me
 
