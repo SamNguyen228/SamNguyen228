@@ -43,6 +43,8 @@
 
 <table> <tr> <td> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamNguyen228&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/> </td> </tr> </table>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNguyen228&theme=tokyonight" alt="GitHub Streak"/>
+
 ---
 
 ## 🏆 GitHub Trophies
