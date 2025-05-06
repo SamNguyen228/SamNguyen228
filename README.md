@@ -41,15 +41,11 @@
   </tr>
 </table>
 
-<table> <tr> <td> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamNguyen228&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/> </td> </tr> </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNguyen228&theme=tokyonight" alt="GitHub Streak"/>
-
 ---
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=radical&column=4&margin-w=15&margin-h=15"/>
-
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNguyen228&theme=default" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamNguyen228&theme=default" /> </p>
 ---
 
 ## 🔗 Connect With Me
