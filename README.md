@@ -43,8 +43,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=SamNguyen228&theme=radical&column=4&margin-w=15&margin-h=15"/>
+## 📈 GitHub Activity
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamNguyen228&theme=default" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamNguyen228&theme=default" /> </p>
 ---
 
