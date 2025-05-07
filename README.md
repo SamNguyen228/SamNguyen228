@@ -2,8 +2,8 @@
 
 ## 💼 About Me
 
-🎓 I want to become a Web Developer <br>
-💻 Passionate about Web Development and UI/UX  
+🎓 I want to become a Web Developer. <br>
+💻 Passionate about Web Development and UI/UX.  
 📫 Email me at: duonghoangsamet@gmail.com
 
 ---
