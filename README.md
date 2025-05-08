@@ -42,7 +42,7 @@
 
 ## 🎯 Fun Facts
 
-- 🌍 I love learning new technologies and contributing to open source.
+- 🌍 I love learning new technologies.
 - 🎮 Game and code addict.
 - ✨ Always looking to collaborate on exciting projects!
 - 🏸 Sports are my life
