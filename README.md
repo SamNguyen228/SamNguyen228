@@ -44,5 +44,5 @@
 
 - 🌍 I love learning new technologies.
 - 🎮 Game and code addict.
-- ✨ Always looking to collaborate on exciting projects!
+- ✨ Always looking to collaborate on exciting projects.
 - 🏸 Sports are my life
